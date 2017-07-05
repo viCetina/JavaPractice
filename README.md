@@ -1,2 +1,2 @@
 # JavaPractice
-Java exercises with netbeans
+Java exercises using netbeans.
